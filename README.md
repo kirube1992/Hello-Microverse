@@ -51,8 +51,6 @@ you  can fork and use it as you want
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
 
 ### Setup
 
